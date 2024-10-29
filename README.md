@@ -19,6 +19,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/pradeep-m-analyst/](https://www.linkedin.com/in/shubham-navale-435576323/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-navale-435576323/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhamnavale2019@gmail.com)
 
