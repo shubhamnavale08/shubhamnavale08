@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham! 👋
+# Hi there, I'm Shubham Navale! 👋
 
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth. With a strong foundation in tools like Excel, PowerBI, SQL,Tableau and Python, I aim to combine technical expertise with business acumen to deliver impactful solutions.
 
