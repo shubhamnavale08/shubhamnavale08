@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Projects
 
 - [Bank Loan Report](https://github.com/shubhamnavale08/Bank_Loan_Report)
-- [HR Atrition Analysis](https://github.com/shubhamnavale08/HR_Atrition_Analysis)
+- [HR Attrition Analysis](https://github.com/shubhamnavale08/HR_Atrition_Analysis)
 - [Kickstarter Project Analysis](https://github.com/shubhamnavale08/Kickstarter_Project_Analysis)
 
 ## Let's Connect!
