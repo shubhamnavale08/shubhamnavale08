@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 
 ## Projects
 
-- [Bank Loan Report](https://github.com/shubhamnavale08/Bank_Loan_Report):[This project focuses on conducting a comprehensive analysis of bank loan data using Excel, SQL and Power BI, aimed at deriving actionable insights into loan performance metrics, borrower profiles, and market trends.]
+- [Bank Loan Report](https://github.com/shubhamnavale08/Bank_Loan_Report) : This project focuses on conducting a comprehensive analysis of bank loan data using Excel, SQL and Power BI, aimed at deriving actionable insights into loan performance metrics, borrower profiles, and market trends.
 - [HR Attrition Analysis](https://github.com/shubhamnavale08/HR_Atrition_Analysis)
 - [Kickstarter Project Analysis](https://github.com/shubhamnavale08/Kickstarter_Project_Analysis)
 
