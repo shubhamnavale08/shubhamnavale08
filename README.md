@@ -25,5 +25,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-navale-435576323/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-333333?style=flat-square&logo=wordpress&logoColor=white)]((https://shubhamnavale08.github.io/shubhamnavale08.github./))
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:shubhamnavale2019@gmail.com)
 
