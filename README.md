@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
 ## About Me
 
 - 💼 Aspiring Data Analyst
-- 🌱 I’m currently working as Data Analyst intern at AI Variant
+- 🌱 I’m currently working as Data Analyst intern at Unified Mentor
 - 🎓 Master of Commerce -Business Administration 
 
 ## Tools and Languages
